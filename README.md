@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorishitaTakafumi
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript, TypeScript, NodeJs, Vue 
+- 🌱 I’m currently learning JavaScript, TypeScript, NodeJs, Vue and git
 - 💞️ I’m looking to collaborate on ... xxx
 - 📫 How to reach me ... xxx
 - 😄 Pronouns: ... xxx
